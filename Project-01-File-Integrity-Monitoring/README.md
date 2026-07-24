@@ -132,6 +132,6 @@ Successfully configured Wazuh File Integrity Monitoring to detect and investigat
 
 Cyber Security Student | Aspiring SOC Analyst
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/Tashfeen-kk
 
-LinkedIn: https://linkedin.com/in/YOUR_PROFILE
+LinkedIn: https://www.linkedin.com/in/muhammad-tashfeen-778a55350?utm_source=share_via&utm_content=profile&utm_medium=member_android
