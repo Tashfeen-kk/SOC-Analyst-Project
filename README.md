@@ -95,23 +95,28 @@ Detect and investigate authorized Nmap reconnaissance activity using Wazuh SIEM.
 
 ---
 
-# 🎯 Skills
 
-- Wazuh SIEM
-- Linux
-- Windows Security
-- Nmap
-- Threat Hunting
-- Incident Response
-- File Integrity Monitoring
-- Log Analysis
-- MITRE ATT&CK
-- Microsoft Defender
+### 🔐 Cybersecurity Skills
+
+- 🛡️ Wazuh SIEM
+- 📊 Splunk (Learning)
+- ☁️ Microsoft Sentinel (Learning)
+- 🦠 Microsoft Defender
+- 📁 File Integrity Monitoring (FIM)
+- 📑 Log Analysis
+- 🎯 Threat Hunting
+- 🚨 Incident Response
+- 🌐 Nmap
+- 🖥️ Windows Security
+- 🐧 Linux Administration
+- 📚 MITRE ATT&CK Framework
+- 🌍 Networking
 
 ---
 
 # 📜 Certifications
 
+- Introduction to Cybersecurity (Cisco Networking Academy)
 - Microsoft Learn (In Progress)
 - Fortinet Training Institute (In Progress)
 
