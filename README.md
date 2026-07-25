@@ -119,9 +119,9 @@ Detect and investigate authorized Nmap reconnaissance activity using Wazuh SIEM.
 
 # 📫 Connect With Me
 
-**LinkedIn:** *(Add your LinkedIn profile link)*
+**LinkedIn:** *https://www.linkedin.com/in/muhammad-tashfeen-778a55350?utm_source=share_via&utm_content=profile&utm_medium=member_android*
 
-**GitHub:** *(Add your GitHub profile link)*
+**GitHub:** *https://github.com/Tashfeen-kk*
 
 ---
 
